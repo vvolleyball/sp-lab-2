@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Lab2.cpp
+D:\Projects\Lab2\Lab2\Lab2.cpp(184,23): warning C4244: =: преобразование "DWORD" в "WORD", возможна потеря данных
+D:\Projects\Lab2\Lab2\Lab2.cpp(242,21): warning C4244: =: преобразование "DWORD" в "WORD", возможна потеря данных
+  Lab2.vcxproj -> D:\Projects\Lab2\Debug\Lab2.exe
